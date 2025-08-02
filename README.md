@@ -14,9 +14,9 @@
 
 ### 🔥 Streak dan Statistik
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=gruvbox)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianwinata19&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dianwinata19&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dianwinata19&theme=gruvbox)](https://git.io/streak-stats)
 
 ---
 
